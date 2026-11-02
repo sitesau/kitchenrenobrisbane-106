@@ -1,0 +1,22 @@
+{
+  "wheel_id": 660,
+  "structure": "umbrella",
+  "slug": "kitchenrenobrisbane-106",
+  "project": "kitchen-renovations-brisbane-how-to-choose-75642cc4d6453710cab8",
+  "parent_t1_ref": "kitchenrenobrisbane-152",
+  "node_role": "feeder",
+  "money_target": "kitchenrenobrisbane.com.au",
+  "primary_kw": "kitchen renovations brisbane how to choose",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-brisbane-how-to-choose-75642cc4d6453710cab8/",
+  "tier": "T2",
+  "writeback_nonce": "5850bf8529e7ebd9",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/kitchenrenobrisbane-152/",
+      "anchor": "Kitchen Renovations Brisbane Seasonal Timing: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
